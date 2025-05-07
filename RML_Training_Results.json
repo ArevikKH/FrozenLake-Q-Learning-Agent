@@ -1,0 +1,362 @@
+[
+    {
+        "epsilon": 0.1,
+        "num_epochs": 30,
+        "execution_time": 0.05205249786376953,
+        "render_time": 3.00100040435791
+    },
+    {
+        "epsilon": 0.1,
+        "num_epochs": 50,
+        "execution_time": 0.049056291580200195,
+        "render_time": 3.010998249053955
+    },
+    {
+        "epsilon": 0.1,
+        "num_epochs": 70,
+        "execution_time": 0.05238628387451172,
+        "render_time": 1.5
+    },
+    {
+        "epsilon": 0.1,
+        "num_epochs": 100,
+        "execution_time": 0.07793378829956055,
+        "render_time": 3.002000093460083
+    },
+    {
+        "epsilon": 0.1,
+        "num_epochs": 300,
+        "execution_time": 0.16146326065063477,
+        "render_time": 1.500000238418579
+    },
+    {
+        "epsilon": 0.1,
+        "num_epochs": 500,
+        "execution_time": 0.26515769958496094,
+        "render_time": 1.4999992847442627
+    },
+    {
+        "epsilon": 0.1,
+        "num_epochs": 700,
+        "execution_time": 0.31488800048828125,
+        "render_time": 1.501999855041504
+    },
+    {
+        "epsilon": 0.1,
+        "num_epochs": 1000,
+        "execution_time": 0.3895223140716553,
+        "render_time": 1.5
+    },
+    {
+        "epsilon": 0.1,
+        "num_epochs": 5000,
+        "execution_time": 1.9313607215881348,
+        "render_time": 1.499999761581421
+    },
+    {
+        "epsilon": 0.1,
+        "num_epochs": 10000,
+        "execution_time": 3.9173738956451416,
+        "render_time": 1.504000186920166
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 30,
+        "execution_time": 0.027928590774536133,
+        "render_time": 3.0109996795654297
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 50,
+        "execution_time": 0.03969526290893555,
+        "render_time": 3.0119996070861816
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 70,
+        "execution_time": 0.1409006118774414,
+        "render_time": 3.002000331878662
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 100,
+        "execution_time": 0.08825087547302246,
+        "render_time": 1.5000004768371582
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 300,
+        "execution_time": 0.252047061920166,
+        "render_time": 1.5059993267059326
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 500,
+        "execution_time": 0.25401782989501953,
+        "render_time": 1.506004810333252
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 700,
+        "execution_time": 0.32036757469177246,
+        "render_time": 1.5019941329956055
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 1000,
+        "execution_time": 0.5417189598083496,
+        "render_time": 1.499999761581421
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 5000,
+        "execution_time": 1.934889554977417,
+        "render_time": 1.5039997100830078
+    },
+    {
+        "epsilon": 0.3,
+        "num_epochs": 10000,
+        "execution_time": 3.7548861503601074,
+        "render_time": 1.5019986629486084
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 30,
+        "execution_time": 0.021924495697021484,
+        "render_time": 3.001999855041504
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 50,
+        "execution_time": 0.0359959602355957,
+        "render_time": 3.000000476837158
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 70,
+        "execution_time": 0.046736955642700195,
+        "render_time": 3.01200532913208
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 100,
+        "execution_time": 0.06142830848693848,
+        "render_time": 1.499999761581421
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 300,
+        "execution_time": 0.17050504684448242,
+        "render_time": 1.5019996166229248
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 500,
+        "execution_time": 0.2599623203277588,
+        "render_time": 1.5049991607666016
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 700,
+        "execution_time": 0.30202603340148926,
+        "render_time": 1.5000007152557373
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 1000,
+        "execution_time": 0.47960543632507324,
+        "render_time": 1.5009994506835938
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 5000,
+        "execution_time": 1.9919731616973877,
+        "render_time": 1.5059998035430908
+    },
+    {
+        "epsilon": 0.5,
+        "num_epochs": 10000,
+        "execution_time": 3.782161235809326,
+        "render_time": 1.4999990463256836
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 30,
+        "execution_time": 0.021381616592407227,
+        "render_time": 3.011000633239746
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 50,
+        "execution_time": 0.03388333320617676,
+        "render_time": 3.0069947242736816
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 70,
+        "execution_time": 0.04483389854431152,
+        "render_time": 1.5050008296966553
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 100,
+        "execution_time": 0.06738996505737305,
+        "render_time": 3.010999917984009
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 300,
+        "execution_time": 0.1985337734222412,
+        "render_time": 1.506000280380249
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 500,
+        "execution_time": 0.3422377109527588,
+        "render_time": 1.5059995651245117
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 700,
+        "execution_time": 0.3530158996582031,
+        "render_time": 1.4999992847442627
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 1000,
+        "execution_time": 0.4609220027923584,
+        "render_time": 1.5019993782043457
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 5000,
+        "execution_time": 2.0299108028411865,
+        "render_time": 1.5059995651245117
+    },
+    {
+        "epsilon": 0.7,
+        "num_epochs": 10000,
+        "execution_time": 3.830876588821411,
+        "render_time": 1.5010058879852295
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 30,
+        "execution_time": 0.02322983741760254,
+        "render_time": 3.0109994411468506
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 50,
+        "execution_time": 0.02373480796813965,
+        "render_time": 3.00700044631958
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 70,
+        "execution_time": 0.04170989990234375,
+        "render_time": 1.503000259399414
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 100,
+        "execution_time": 0.20961308479309082,
+        "render_time": 1.5039997100830078
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 300,
+        "execution_time": 0.19310212135314941,
+        "render_time": 1.5009992122650146
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 500,
+        "execution_time": 0.26276731491088867,
+        "render_time": 1.5059990882873535
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 700,
+        "execution_time": 0.462078332901001,
+        "render_time": 1.503000020980835
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 1000,
+        "execution_time": 0.47905659675598145,
+        "render_time": 1.5060017108917236
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 5000,
+        "execution_time": 1.9389543533325195,
+        "render_time": 1.5039997100830078
+    },
+    {
+        "epsilon": 0.9,
+        "num_epochs": 10000,
+        "execution_time": 3.8352272510528564,
+        "render_time": 1.5060005187988281
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 30,
+        "execution_time": 0.019266128540039062,
+        "render_time": 3.01200008392334
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 50,
+        "execution_time": 0.027945995330810547,
+        "render_time": 1.001999855041504
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 70,
+        "execution_time": 0.04565119743347168,
+        "render_time": 3.0070064067840576
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 100,
+        "execution_time": 0.04992485046386719,
+        "render_time": 3.0050008296966553
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 300,
+        "execution_time": 0.28588438034057617,
+        "render_time": 1.4999995231628418
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 500,
+        "execution_time": 0.26140308380126953,
+        "render_time": 1.5039994716644287
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 700,
+        "execution_time": 0.3570723533630371,
+        "render_time": 1.5060009956359863
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 1000,
+        "execution_time": 0.5048646926879883,
+        "render_time": 1.5009992122650146
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 5000,
+        "execution_time": 2.0067806243896484,
+        "render_time": 1.5
+    },
+    {
+        "epsilon": 1,
+        "num_epochs": 10000,
+        "execution_time": 3.917330026626587,
+        "render_time": 1.5049993991851807
+    }
+]
